@@ -1,0 +1,113 @@
+package main
+
+import (
+	"fmt"
+	"Function1"
+	"Function2"
+	"Function3"
+	"Function4"
+	"Function5"
+	"Function6"
+	"Function7"
+	"Function8"
+	"Function9"
+	"Function10"
+	"Function11"
+	"Function12"
+	"Function13"
+	"Function14"
+	"Function15"
+	"Function16"
+	"Function17"
+	"Function18"
+	"Function19"
+	"Function20"
+	"Function21"
+	"Function22"
+	"Function23"
+	"Function24"
+	"Function25"
+	"Function26"
+	"Function27"
+	"Function28"
+	"Function29"
+	"Function30"
+	"Function31"
+	"Function32"
+	"Function33"
+	"Function34"
+	"Function35"
+	"Function36"
+	"Function37"
+	"Function38"
+	"Function39"
+	"Function40"
+	"Function41"
+	"Function42"
+	"Function43"
+	"Function44"
+	"Function45"
+	"Function46"
+	"Function47"
+	"Function48"
+	"Function49"
+	"Function50"
+
+)
+
+func main() {
+	fmt.Println("Starting the main function")
+
+	Function1()
+	Function2()
+	Function3()
+	Function4()
+	Function5()
+	Function6()
+	Function7()
+	Function8()
+	Function9()
+	Function10()
+	Function11()
+	Function12()
+	Function13()
+	Function14()
+	Function15()
+	Function16()
+	Function17()
+	Function18()
+	Function19()
+	Function20()
+	Function21()
+	Function22()
+	Function23()
+	Function24()
+	Function25()
+	Function26()
+	Function27()
+	Function28()
+	Function29()
+	Function30()
+	Function31()
+	Function32()
+	Function33()
+	Function34()
+	Function35()
+	Function36()
+	Function37()
+	Function38()
+	Function39()
+	Function40()
+	Function41()
+	Function42()
+	Function43()
+	Function44()
+	Function45()
+	Function46()
+	Function47()
+	Function48()
+	Function49()
+	Function50()
+
+	fmt.Println("All functions have been called")
+}
